@@ -1,0 +1,43 @@
+body, .default{
+    line-height:1.7em;
+    font-family:"Lucida Sans Unicode", "Lucida Grande", Sans-serif;
+    font-size:13px;
+    color:#700;
+}
+.tablilla{
+    margin-left: 20px;
+    width:740px;
+    text-align:left;
+    
+}
+legend{
+    margin-left:20px;
+    font-size:15px;
+}
+img{
+    margin-left:90px;
+}
+
+.tablilla td{
+    padding:2px 3px;
+    color:#700;
+    border-top: 1px solid #CFF000;
+    border-right: 1px solid #CFF000;
+    border-left: 1px solid #CFF000;
+    border-bottom: 1px solid #CFF000;
+}
+.izq{
+    background:#CFF000;
+    border-right: 10px solid transparent;
+    border-left: 10px solid transparent;
+    
+}
+.tablilla tr:hover td{
+    color: #339;
+    background: #DBDBBF;
+    
+}
+#boton{
+    text-align:center;
+    
+}
